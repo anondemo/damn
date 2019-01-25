@@ -1,0 +1,14 @@
+.home-container {
+  // display:flex;
+  // flex-direction:row;
+  padding:30px;
+
+  mat-card {
+    flex:2;
+    padding:0px;
+    margin-bottom: 30px;
+    mat-card-content {
+      padding:16px;
+    }
+  }
+}
